@@ -7,26 +7,36 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-<<<<<<< Updated upstream
-=======
 using System.Net.Http.Json;
 using System.Net.Http;
 using Entities.Dtos.UserDtos;
 using Entities.Enums;
 using Business.Concrete;
 using Business.Abstract;
->>>>>>> Stashed changes
 
 namespace WebAPIWithWindowsForm
 {
     public partial class Form1 : Form
     {
+        #region Defines
+
+        private string apiURL = "http://localhost:22421/api/";
+        private int selectedID = 0;
+        HttpClient httpClient = new HttpClient();
+        UserAddDto userAddDto = new UserAddDto();
+
+        private class Gender
+        {
+            public int Id { get; set; }
+            public string GenderName { get; set; }
+        }
+
+        #endregion Defines
+
         public Form1()
         {
             InitializeComponent();
         }
-<<<<<<< Updated upstream
-=======
 
         private async void Form1_Load(object sender, EventArgs e)
         {
@@ -191,6 +201,5 @@ namespace WebAPIWithWindowsForm
         }
 
         #endregion Crud End
->>>>>>> Stashed changes
     }
 }

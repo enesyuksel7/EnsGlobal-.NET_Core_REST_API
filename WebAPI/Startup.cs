@@ -10,6 +10,13 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using DataAccess.Abstract;
+using DataAccess.Concrete.Contexts;
+using DataAccess.Concrete.EntityFramework;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Migrations;
+using Business.Abstract;
+using Business.Concrete;
 
 namespace WebAPI
 {
@@ -25,8 +32,11 @@ namespace WebAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            IServiceCollection serviceCollections = services.AddDbContext<EnsGlobalContext>(opts => opts.UseSqlServer("Data Source = MEKA-WINSERVER; Initial Catalog = EnsGlobal; Integrated Security = True", options => options.MigrationsAssembly("DataAccess").MigrationsHistoryTable(HistoryRepository.DefaultTableName, "dbo")));
 
             services.AddControllers();
+            services.AddTransient<IUserDal, EfUserDal>();
+            services.AddTransient<IUserService, UserService>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "WebAPI", Version = "v1" });
