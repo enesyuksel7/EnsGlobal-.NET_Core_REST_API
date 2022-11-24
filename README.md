@@ -48,19 +48,19 @@
 
 <hr/>
 
-# Simple Personal Record Application with SQLite
+# .NET Core REST API Project with Layered Architecture
 
-The user enters the name, surname and salary information of the staff on the console. The data are transferred to the database. "CREATE", "READ", "UPDATE", "DELETE" operations can be done on the data. The database can be viewed through DB Browser (SQLite).
+According to the customer data and requests entered from .NET Core Web and Windows Form applications, operations are performed through the "GET","POST","PUT","DELETE" methods. It is a REST API project that I developed under the putative name "EnsGlobal" at MEKA during my summer internship in 2021. While writing the project, importance was given to object-oriented programming and layered architecture. Since the API system was written from scratch in the project, requests can be sent from all platforms that support the API. API methods have been tested on localhost with Postman and Swagger UI.
 
 ## Project Requirements
 
-* Python 3.x
-* DB Browser for SQLite
-* Spyder, Visual Code oth. Python supporting editors
+* .NET 5.0
+* Microsoft SQL Server
+* Visual Studio
 
 ## How to Download?
 
-First of all, <a href="https://sqlitebrowser.org">DB Browser</a> must be installed on the computer to view the database in detail. If it is installed, the download process is started by clicking on "Download ZIP" from the project page to the Code section.
+First of all, <a href="https://visualstudio.microsoft.com/tr/">Visual Studio</a> and <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads">Microsoft SQL Server</a> must be installed in order to run and view the database in detail. If it is installed, go to the Code section on the project page and click "Download ZIP" to start the download process.
 
 ## How to Operate?
-We extract the downloaded "SQLite_ConsolApp_Personel-main.zip" file to a folder. We open the file named "SQLlite_ConsolApp.py" in a Python supported editor and run it.
+We extract the downloaded "EnsGlobal_REST_API-main.zip" file to a folder. After making the necessary IIS, MSSQL Server and Windows settings, run the projects. Include all three projects as launch options.
