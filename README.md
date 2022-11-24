@@ -1,8 +1,8 @@
 <section>
   <div>
-    <img src="https://www.mshowto.org/images/articles/2019/12/justmock__net_770.png" width="30%">
-    <img src="http://www.farukerdem.com/wp-content/uploads/2020/09/SQLSErver.png" width="50%">
-    <img src="https://edvanberliansa.files.wordpress.com/2016/10/jsonlogo.png">
+    <img src="https://www.mshowto.org/images/articles/2019/12/justmock__net_770.png" width="12%">
+    <img src="http://www.farukerdem.com/wp-content/uploads/2020/09/SQLSErver.png" width="30%">
+    <img src="https://edvanberliansa.files.wordpress.com/2016/10/jsonlogo.png" width="50%">
   </div>
 </section>
 
@@ -14,7 +14,7 @@
 
 <div>
   <img src="https://imgyukle.com/f/2022/11/24/JIsaxf.png" width="20%">
-  <img src="https://r.resimlink.com/-_PhZXcq.png" width="20%">
+  <img src="https://imgyukle.com/f/2022/11/24/JIsHDG.png" width="20%">
 </div>
 
 ## Proje Gereksinimleri
