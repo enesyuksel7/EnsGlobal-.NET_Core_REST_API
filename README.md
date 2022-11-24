@@ -23,12 +23,12 @@
   <a>
   Projede API sistemi sıfırdan yazıldığı için API destekleyen tüm platformlardan istekler gönderilebilir.
   </a>
-  <img src="https://imgyukle.com/f/2022/11/24/JIsLbS.png" width="70%">
+  <img src="https://imgyukle.com/f/2022/11/24/JIsLbS.png" width="80%">
   <br/>
   <section>
   API metotları localhostta Postman ve Swagger UI ile test edilmiştir.
   </section>
-  <img src="https://imgyukle.com/f/2022/11/24/JIsjgs.png" width="70%">
+  <img src="https://imgyukle.com/f/2022/11/24/JIsjgs.png" width="80%">
   <br/>
 </div>
 
