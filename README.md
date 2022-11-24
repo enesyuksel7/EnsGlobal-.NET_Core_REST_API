@@ -1,6 +1,6 @@
 <section>
   <div>
-    <img src="https://miro.medium.com/max/750/1*zc1BKfAHkpvrZlHPbUvuYA.png" width="26%">
+    <img src="https://miro.medium.com/max/750/1*zc1BKfAHkpvrZlHPbUvuYA.png" width="28%">
     <img src="http://www.farukerdem.com/wp-content/uploads/2020/09/SQLSErver.png" width="28%">
     <img src="https://edvanberliansa.files.wordpress.com/2016/10/jsonlogo.png" width="20%">
   </div>
@@ -15,10 +15,12 @@
 <br/>
 <div>
   <section>
-  2021 yılı yaz stajımda <a href="https://www.mekaglobal.com/tr">MEKA</a> şirketinde geliştirmiş olduğum REST API projesi.
+  2021 yılı yaz stajımda, <a href="https://www.mekaglobal.com/tr">MEKA</a> şirketinde geliştirmiş olduğum REST API projesi.
   </section>
   <img src="https://imgyukle.com/f/2022/11/24/JIsaxf.png" width="50%">
+  <br/>
   <img src="https://imgyukle.com/f/2022/11/24/JIsLbS.png" width="50%">
+  <br/>
 </div>
 
 ## Proje Gereksinimleri
