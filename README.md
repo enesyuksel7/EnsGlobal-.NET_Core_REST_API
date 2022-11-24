@@ -17,6 +17,7 @@
   <section>
   2021 yılı yaz stajımda, <a href="https://www.mekaglobal.com/tr">MEKA</a> şirketinde geliştirmiş olduğum REST API projesi.
   </section>
+  <br/>
   <img src="https://imgyukle.com/f/2022/11/24/JIsaxf.png" width="50%">
   <br/>
   <img src="https://imgyukle.com/f/2022/11/24/JIsLbS.png" width="50%">
