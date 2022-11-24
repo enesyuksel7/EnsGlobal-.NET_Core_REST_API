@@ -1,7 +1,7 @@
 <section>
   <div>
     <img src="https://www.mshowto.org/images/articles/2019/12/justmock__net_770.png" width="30%">
-    <img src="http://www.farukerdem.com/wp-content/uploads/2020/09/SQLSErver.png" width="15%">
+    <img src="http://www.farukerdem.com/wp-content/uploads/2020/09/SQLSErver.png" width="50%">
     <img src="https://edvanberliansa.files.wordpress.com/2016/10/jsonlogo.png">
   </div>
 </section>
