@@ -28,7 +28,7 @@
   <section>
   API metotları localhostta Postman ve Swagger UI ile test edilmiştir.
   </section>
-  <img src="https://imgyukle.com/f/2022/11/24/JIsjgs.png" width="50%">
+  <img src="https://imgyukle.com/f/2022/11/24/JIsjgs.png" href="https://imgyukle.com/f/2022/11/24/JIsjgs.png" width="50%">
   <br/>
 </div>
 
