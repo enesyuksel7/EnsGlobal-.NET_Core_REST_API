@@ -18,17 +18,17 @@
   2021 yılı yaz stajımda, <a href="https://www.mekaglobal.com/tr">MEKA</a> şirketinde, farazi "EnsGlobal" adı altında geliştirmiş olduğum REST API projesidir. Proje yazılırken nesne yönelimli programlama ve katmanlı mimari olmasına önem gösterilmiştir.
   </section>
   <br/>
-  <img src="https://imgyukle.com/f/2022/11/24/JIsaxf.png" width="50%">
+  <img src="https://imgyukle.com/f/2022/11/24/JIsaxf.png" width="70%">
   <br/>
   <a>
   Projede API sistemi sıfırdan yazıldığı için API destekleyen tüm platformlardan istekler gönderilebilir.
   </a>
-  <img src="https://imgyukle.com/f/2022/11/24/JIsLbS.png" width="50%">
+  <img src="https://imgyukle.com/f/2022/11/24/JIsLbS.png" width="70%">
   <br/>
   <section>
   API metotları localhostta Postman ve Swagger UI ile test edilmiştir.
   </section>
-  <img src="https://imgyukle.com/f/2022/11/24/JIsjgs.png" href="https://imgyukle.com/f/2022/11/24/JIsjgs.png" width="50%">
+  <img src="https://imgyukle.com/f/2022/11/24/JIsjgs.png" width="70%">
   <br/>
 </div>
 
