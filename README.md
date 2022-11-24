@@ -15,14 +15,14 @@
 <br/>
 <div>
   <section>
-  2021 yılı yaz stajımda, <a href="https://www.mekaglobal.com/tr">MEKA</a> şirketinde geliştirmiş olduğum REST API projesi.
+  2021 yılı yaz stajımda, <a href="https://www.mekaglobal.com/tr">MEKA</a> şirketinde, farazi "EnsGlobal" adı altında geliştirmiş olduğum REST API projesidir. Proje yazılırken nesne yönelimli programlama ve katmanlı mimari olmasına önem gösterilmiştir.
   </section>
   <br/>
   <img src="https://imgyukle.com/f/2022/11/24/JIsaxf.png" width="50%">
   <br/>
-  <section>
+  <a>
   Projede API sistemi sıfırdan yazıldığı için API destekleyen tüm platformlardan istekler gönderilebilir.
-  </section>
+  </a>
   <img src="https://imgyukle.com/f/2022/11/24/JIsLbS.png" width="50%">
   <br/>
   <section>
