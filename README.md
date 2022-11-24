@@ -20,7 +20,15 @@
   <br/>
   <img src="https://imgyukle.com/f/2022/11/24/JIsaxf.png" width="50%">
   <br/>
+  <section>
+  Projede API sistemi sıfırdan yazıldığı için API destekleyen tüm platformlardan istekler gönderilebilir.
+  </section>
   <img src="https://imgyukle.com/f/2022/11/24/JIsLbS.png" width="50%">
+  <br/>
+  <section>
+  API metotları localhostta Postman ve Swagger UI ile test edilmiştir.
+  </section>
+  <img src="https://imgyukle.com/f/2022/11/24/JIsjgs.png" width="50%">
   <br/>
 </div>
 
