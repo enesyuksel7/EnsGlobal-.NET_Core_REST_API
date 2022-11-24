@@ -14,7 +14,7 @@
 
 <div>
   <img src="https://r.resimlink.com/-_PhZXcq.png" width="20%">
-  <a href="https://resimlink.com/e3jJzbgk" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/e3jJzbgk.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+  <img src="https://r.resimlink.com/-_PhZXcq.png" width="20%">
 </div>
 
 ## Proje Gereksinimleri
@@ -25,7 +25,7 @@
 
 ## Nasıl İndirilir?
 
-İlk olarak veritabanını detaylı şekilde çalıştırabilmek ve görüntüleyebilmek için <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads">Microsoft SQL Server</a> kurulu olmalıdır. Kurulu ise proje sayfasından Code kısmına gelip "Download ZIP"e tıklanarak indirme işlemini başlatılır.
+İlk olarak veritabanını detaylı şekilde çalıştırabilmek ve görüntüleyebilmek için <a href="https://visualstudio.microsoft.com/tr/">Visual Studio</a> ve <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads">Microsoft SQL Server</a> kurulu olmalıdır. Kurulu ise proje sayfasından Code kısmına gelip "Download ZIP"e tıklanarak indirme işlemini başlatılır.
 
 ## Nasıl Çalıştırılır?
 
