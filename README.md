@@ -13,7 +13,7 @@
 </section>
 
 <div>
-  <img src="https://r.resimlink.com/-_PhZXcq.png" width="20%">
+  <a href="https://resimlink.com/e3jJzbgk" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/e3jJzbgk.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
   <img src="https://r.resimlink.com/-_PhZXcq.png" width="20%">
 </div>
 
