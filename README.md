@@ -1,7 +1,7 @@
 <section>
   <div>
-    <img src="https://miro.medium.com/max/750/1*zc1BKfAHkpvrZlHPbUvuYA.png" width="20%">
-    <img src="http://www.farukerdem.com/wp-content/uploads/2020/09/SQLSErver.png" width="30%">
+    <img src="https://miro.medium.com/max/750/1*zc1BKfAHkpvrZlHPbUvuYA.png" width="24%">
+    <img src="http://www.farukerdem.com/wp-content/uploads/2020/09/SQLSErver.png" width="28%">
     <img src="https://edvanberliansa.files.wordpress.com/2016/10/jsonlogo.png" width="20%">
   </div>
 </section>
@@ -13,8 +13,8 @@
 </section>
 
 <div>
-  <img src="https://imgyukle.com/f/2022/11/24/JIsaxf.png" width="20%">
-  <img src="https://imgyukle.com/f/2022/11/24/JIsHDG.png" width="20%">
+  <img src="https://imgyukle.com/f/2022/11/24/JIsaxf.png" width="50%">
+  <img src="https://imgyukle.com/f/2022/11/24/JIsHDG.png" width="50%">
 </div>
 
 ## Proje Gereksinimleri
